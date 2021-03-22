@@ -12,7 +12,7 @@ env:
 
 jobs:
   test:
-    name: 'Validate links'
+    name: 'test Hamza'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
